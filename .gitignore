@@ -1,0 +1,5 @@
+node_modules
+.env
+.mastra
+mastra.db*
+.repro-state.json
